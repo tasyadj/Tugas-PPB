@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b3327d9-75ce-42b3-9124-6ec7dc77bb06" name="Default Changelist" comment="" />
+    <list default="true" id="fe384ea6-b949-4f72-bbfa-a903ac1d8580" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +21,7 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="ProjectId" id="1ziKUBAS50gq3lRTCNXXicg8n77" />
+  <component name="ProjectId" id="1zrMjtLkDXMr3dbZSMW4bos0vat" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,7 +33,7 @@
   </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="Kalkulator_Bidang_Datar.app" />
+      <module name="Aplikasi_Menu_Makanan.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -94,23 +94,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4b3327d9-75ce-42b3-9124-6ec7dc77bb06" name="Default Changelist" comment="" />
-      <created>1634625482128</created>
+      <changelist id="fe384ea6-b949-4f72-bbfa-a903ac1d8580" name="Default Changelist" comment="" />
+      <created>1634901894941</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1634625482128</updated>
+      <updated>1634901894941</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/tasyadj/ppb/kalkulatorbidangdatar/MainActivity.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

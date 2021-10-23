@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kalkulator_Bidang_Datar.iml" filepath="$PROJECT_DIR$/.idea/modules/Kalkulator_Bidang_Datar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Kalkulator_Bidang_Datar.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Kalkulator_Bidang_Datar.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Aplikasi_Menu_Makanan.iml" filepath="$PROJECT_DIR$/.idea/modules/Aplikasi_Menu_Makanan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Aplikasi_Menu_Makanan.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Aplikasi_Menu_Makanan.app.iml" />
     </modules>
   </component>
 </project>

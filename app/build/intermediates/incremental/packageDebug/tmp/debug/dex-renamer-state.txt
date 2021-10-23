@@ -1,9 +1,9 @@
-#Tue Oct 19 13:54:29 ICT 2021
-base.2=D\:\\ppb-Kalkulator-Bidang-Datar\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
-path.2=12/classes.dex
-base.1=D\:\\ppb-Kalkulator-Bidang-Datar\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+#Sat Oct 23 20:38:18 ICT 2021
+base.2=D\:\\TugasPPB_AppMenuMakanan\\ppb-Aplikasi-Menu-Makanan\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
+path.2=7/classes.dex
+base.1=D\:\\TugasPPB_AppMenuMakanan\\ppb-Aplikasi-Menu-Makanan\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 path.1=0/classes.dex
-base.0=D\:\\ppb-Kalkulator-Bidang-Datar\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.0=D\:\\TugasPPB_AppMenuMakanan\\ppb-Aplikasi-Menu-Makanan\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex

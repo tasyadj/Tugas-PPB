@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.akbardwi.ppb.kalkulatorbidangdatar"
+    package="com.akbardwi.ppb.aplikasimenumakanan"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -17,9 +17,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/Theme.KalkulatorBidangDatar" >
+        android:theme="@style/Theme.AplikasiMenuMakanan" >
         <activity
-            android:name="com.tasyadj.ppb.kalkulatorbidangdatar.MainActivity"
+            android:name="com.tasyadj.ppb.aplikasimenumakanan.MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name="com.tasyadj.ppb.aplikasimenumakanan.MainActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

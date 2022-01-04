@@ -1,66 +1,294 @@
 [
     {
-        "merged": "D:\\ppb-Kalkulator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "D:\\ppb-Kalkulator\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login_screen.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\layout\\activity_login_screen.xml"
     },
     {
-        "merged": "D:\\ppb-Kalkulator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "D:\\ppb-Kalkulator\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_barcode_scannercolored.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\ic_barcode_scannercolored.xml"
     },
     {
-        "merged": "D:\\ppb-Kalkulator\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
-        "source": "D:\\ppb-Kalkulator\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_indicator_selected.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\indicator_selected.xml"
     },
     {
-        "merged": "D:\\ppb-Kalkulator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\ppb-Kalkulator\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\layout_view_alert_proses_struk.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\layout\\view_alert_proses_struk.xml"
     },
     {
-        "merged": "D:\\ppb-Kalkulator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\ppb-Kalkulator\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_tambah_otomatis.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\ic_tambah_otomatis.xml"
     },
     {
-        "merged": "D:\\ppb-Kalkulator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\ppb-Kalkulator\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "D:\\ppb-Kalkulator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\ppb-Kalkulator\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\ppb-Kalkulator\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "D:\\ppb-Kalkulator\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\font_gilroy.ttf.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\font\\gilroy.ttf"
     },
     {
-        "merged": "D:\\ppb-Kalkulator\\app\\build\\intermediates\\merged_res\\debug\\layout_item_kalkulator.xml.flat",
-        "source": "D:\\ppb-Kalkulator\\app\\src\\main\\res\\layout\\item_kalkulator.xml"
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\ppb-Kalkulator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "D:\\ppb-Kalkulator\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_tambah_manual.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\ic_tambah_manual.xml"
     },
     {
-        "merged": "D:\\ppb-Kalkulator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "D:\\ppb-Kalkulator\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_addimage.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\ic_addimage.xml"
     },
     {
-        "merged": "D:\\ppb-Kalkulator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "D:\\ppb-Kalkulator\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_riwayat.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\ic_riwayat.xml"
     },
     {
-        "merged": "D:\\ppb-Kalkulator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "D:\\ppb-Kalkulator\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_produkkosong.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\ic_produkkosong.xml"
     },
     {
-        "merged": "D:\\ppb-Kalkulator\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "D:\\ppb-Kalkulator\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_tambah_keranjang.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\ic_tambah_keranjang.xml"
     },
     {
-        "merged": "D:\\ppb-Kalkulator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "D:\\ppb-Kalkulator\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\ppb-Kalkulator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\ppb-Kalkulator\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\layout_frag_keranjang.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\layout\\frag_keranjang.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_kardus_berwarna.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\ic_kardus_berwarna.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\layout_frag_produk.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\layout\\frag_produk.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_top_bg.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\rounded_top_bg.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_bj.jpeg.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\logo_bj.jpeg"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\layout_row_riwayat.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\layout\\row_riwayat.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\layout_view_alert_proses.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\layout\\view_alert_proses.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\anim_from_top.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\anim\\from_top.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_bg.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\rounded_bg.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_keranjangkosong.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\ic_keranjangkosong.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\anim_button_mulai_animation.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\anim\\button_mulai_animation.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_checklist.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\ic_checklist.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\layout_row_produk.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\layout\\row_produk.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_produk.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\ic_produk.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\font_momcake.otf.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\font\\momcake.otf"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_keranjang_berwarna.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\ic_keranjang_berwarna.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\layout_view_btm_sheet__tambah_produk.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\layout\\view_btm_sheet__tambah_produk.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_keranjang.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\ic_keranjang.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\layout_view_alert_scan_to_add.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\layout\\view_alert_scan_to_add.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_tambah_manual.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\layout\\activity_tambah_manual.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\anim_from_bottom.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\anim\\from_bottom.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_gradient_style.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\btn_gradient_style.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_kardus.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\ic_kardus.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_logoupr.png.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\logoupr.png"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\font_tcm.TTF.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\font\\tcm.TTF"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_bantuan.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\layout\\activity_bantuan.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\layout_frag_riwayat.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\layout\\frag_riwayat.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_riwayat_berwarna.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\ic_riwayat_berwarna.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_tambah_produk.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\ic_tambah_produk.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_produk_berwarna.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\ic_produk_berwarna.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_kasir_mobile.png.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\logo_kasir_mobile.png"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_indicator_selector.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\indicator_selector.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_riwayatkosong.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\ic_riwayatkosong.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\menu_toolbar_menu.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\menu\\toolbar_menu.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_indicator_default.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\indicator_default.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\layout_view_produk_dialog.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\layout\\view_produk_dialog.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\layout_row_produk_struk.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\layout\\row_produk_struk.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_lanjut.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\ic_lanjut.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_bottom_main.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\menu\\menu_bottom_main.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_tambah_otomatis.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\layout\\activity_tambah_otomatis.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_tentang.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\layout\\activity_tentang.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\layout_row_keranjang.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\layout\\row_keranjang.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_screen.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\layout\\layout_screen.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_screen_bantuan.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\layout\\layout_screen_bantuan.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_calculator.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\drawable\\ic_calculator.xml"
+    },
+    {
+        "merged": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_intro.xml.flat",
+        "source": "D:\\ppb-Cloth-Cashier\\ppb-Cloth-Cashier\\app\\src\\main\\res\\layout\\activity_intro.xml"
     }
 ]

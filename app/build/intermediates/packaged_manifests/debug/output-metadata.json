@@ -4,7 +4,7 @@
     "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.akbardwi.ppb.kalkulator",
+  "applicationId": "com.tasyadj.ppb.uas",
   "variantName": "debug",
   "elements": [
     {

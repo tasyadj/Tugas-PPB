@@ -1,0 +1,11 @@
+com/tasyadj/ppb/kalkulator/KalkulatorAdapter.java
+ com.tasyadj.ppb.kalkulator.KalkulatorAdapter
+ com.tasyadj.ppb.kalkulator.KalkulatorAdapter$KalkulatorViewHolder
+com/tasyadj/ppb/kalkulator/Kalkulator.java
+ com.tasyadj.ppb.kalkulator.Kalkulator
+com/tasyadj/ppb/kalkulator/BuildConfig.java
+ com.tasyadj.ppb.kalkulator.BuildConfig
+com/tasyadj/ppb/kalkulator/MainActivity.java
+ com.tasyadj.ppb.kalkulator.MainActivity
+ com.tasyadj.ppb.kalkulator.MainActivity$1
+ com.tasyadj.ppb.kalkulator.MainActivity$1$1
